@@ -1,0 +1,12 @@
+Health Potion: 0
+Bandage: 0
+Medical Kit: 0
+Extinguisher: 0
+Revolver: 0
+Sword: 0
+Knife: 0
+Bat: 0
+Flash Light: 1
+Parachute: 0
+Key: 0
+Gold Key: 0

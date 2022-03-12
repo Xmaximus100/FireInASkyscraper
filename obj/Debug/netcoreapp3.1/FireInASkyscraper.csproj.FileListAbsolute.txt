@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\FireInASkyscraper\bin\Debug\netcoreapp3.1\FireInASkyscraper.exe
+C:\Users\patry\source\repos\FireInASkyscraper\bin\Debug\netcoreapp3.1\FireInASkyscraper.deps.json
+C:\Users\patry\source\repos\FireInASkyscraper\bin\Debug\netcoreapp3.1\FireInASkyscraper.runtimeconfig.json
+C:\Users\patry\source\repos\FireInASkyscraper\bin\Debug\netcoreapp3.1\FireInASkyscraper.runtimeconfig.dev.json
+C:\Users\patry\source\repos\FireInASkyscraper\bin\Debug\netcoreapp3.1\FireInASkyscraper.dll
+C:\Users\patry\source\repos\FireInASkyscraper\bin\Debug\netcoreapp3.1\FireInASkyscraper.pdb
+C:\Users\patry\source\repos\FireInASkyscraper\obj\Debug\netcoreapp3.1\FireInASkyscraper.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\FireInASkyscraper\obj\Debug\netcoreapp3.1\FireInASkyscraper.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\FireInASkyscraper\obj\Debug\netcoreapp3.1\FireInASkyscraper.AssemblyInfo.cs
+C:\Users\patry\source\repos\FireInASkyscraper\obj\Debug\netcoreapp3.1\FireInASkyscraper.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\FireInASkyscraper\obj\Debug\netcoreapp3.1\FireInASkyscraper.dll
+C:\Users\patry\source\repos\FireInASkyscraper\obj\Debug\netcoreapp3.1\FireInASkyscraper.pdb
+C:\Users\patry\source\repos\FireInASkyscraper\obj\Debug\netcoreapp3.1\FireInASkyscraper.genruntimeconfig.cache
